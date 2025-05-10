@@ -1,6 +1,4 @@
-# Pavbox Engineering
-
-**Pavbox Engineering** — это витрина моих open‑source‑проектов и заметок к блогу @pavbox.  
+Это витрина моих open‑source‑проектов и заметок к блогу [@pavbox_engineering](https://t.me/pavbox_engineering).
 Здесь я публикую примеры кода, гайдлайны и прочие материалы, которые могут пригодиться инженерам, исследующим **AI / iOS / open source**.
 
 ---
